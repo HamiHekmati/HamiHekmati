@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hami Hekmati</h1>
 
+<p align="left" style="font-size:20px; font-weight:bold;">
+  🧠 Aspiring Machine Learning/AI Engineer, Data Scientist & Data Analyst
+</p>
+
 <p align="left">
-  🤖 Passionate about data science, machine learning, and deep learning, always eager to uncover insights and build real-world solutions.<br><br>
+  🤖 Passionate about Data Science, Machine Learning, and Deep Learning, always eager to uncover insights and build real-world solutions.<br><br>
   🎓 M.S. in Bioengineering from UC Riverside.<br><br>
   🧩 Love solving complex problems with clean code, thoughtful analysis, and a drive for continuous learning.<br><br>
   💡 Turning data into understanding.
 </p>
-
 
 <hr>
 
