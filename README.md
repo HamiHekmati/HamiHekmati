@@ -88,26 +88,41 @@
       <a href="https://huggingface.co/transformers/" target="_blank">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Transformers" width="50" height="50"/>
       </a>
-         <br>Transformers
-  </td>
-  <td align="center">
-    <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="50" height="50"/>
-    </a>
-    <br>PySpark
-  </td>
-  <td align="center">
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-    </a>
-    <br>MySQL
-  </td>
+      <br>Transformers
+    </td>
+    <td align="center">
+      <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="50" height="50"/>
+      </a>
+      <br>PySpark
+    </td>
+    <td align="center">
+      <a href="https://www.langchain.com/" target="_blank">
+        <img src="https://api.nuget.org/v3-flatcontainer/langchain.core/0.15.1-dev.111/icon" alt="LangChain" width="50" height="50"/>
+      </a>
+      <br>LangChain
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://crewai.com/" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1770816346906849281/t72FgUel_400x400.jpg" alt="CrewAI" width="50" height="50"/>
+      </a>
+      <br>CrewAI
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+      </a>
+      <br>MySQL
+    </td>
     <td align="center">
       <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
       </a>
       <br>PostgreSQL
     </td>
+    <td></td>
   </tr>
 </table>
 
