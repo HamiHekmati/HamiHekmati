@@ -106,7 +106,7 @@
   <tr>
     <td align="center">
       <a href="https://crewai.com/" target="_blank">
-        <img src="https://pbs.twimg.com/profile_images/1770816346906849281/t72FgUel_400x400.jpg" alt="CrewAI" width="50" height="50"/>
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/crewai-color.png" alt="CrewAI" width="50" height="50"/>
       </a>
       <br>CrewAI
     </td>
